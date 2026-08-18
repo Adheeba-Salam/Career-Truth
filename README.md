@@ -1,3 +1,34 @@
+# Career Truth
+
+### Real Jobs. Verified Opportunities.
+
+Career Truth is a job-search platform designed to help candidates discover
+genuine job opportunities and reduce exposure to misleading or fraudulent
+job postings.
+
+## 🚧 Project Status
+
+**Work in Progress**
+
+The platform is currently under development.
+
+## 🎯 Vision
+
+To create a trusted job-search platform where candidates can discover,
+evaluate, and apply for legitimate job opportunities.
+
+## Planned Features
+
+- Job search and filtering
+- Verified employer profiles
+- Job posting management
+- Candidate accounts
+- Application tracking
+- Job verification
+- Scam/fraud reporting
+- Employer and job details
+- Secure authentication
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
